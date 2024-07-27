@@ -1,1 +1,2 @@
 # odin-recipes
+This is a website that includes information about different recipes. This website will help me refresh my HTML knowledge which includes the basic HTML structure (boilerplate), headings,lists, accessibility, links and images.
