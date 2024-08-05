@@ -11,7 +11,29 @@ h1 {
 
 ul {
     color: white;
-    width: auto;
     height: auto;
     list-style: square;
+
+}
+
+.home-recipes {
+    list-style: none;
+    display: inline;
+    font-size: 1.5rem;
+}
+
+.home-recipes li {
+
+    background-color: white;
+    margin: 40px 50px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    width: 350px;
+    display: inline-block;
+
+}
+
+a {
+    color: black;
 }
